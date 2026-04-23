@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning • DevOps • Linux • Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;DevOps+Learner;Linux+%26+Bash+Enjoyer;Python+%7C+C+%7C+Java" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;DevOps+Learner;Linux+%26+Bash+Enjoyer;Python+%7C+C+%7C+C%23+%7C+Java" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 - ⚙️ Interested in **DevOps** and automation
 - 🐧 Comfortable working with **Linux**
 - 🧩 Love writing **Bash scripts**
-- 💻 Coding in **Python**, **C**, and **Java**
+- 💻 Coding in **Python**, **C**, **C#**, and **Java**
 - 📚 Strong interest in **Mathematics**
 
 ---
@@ -33,6 +33,7 @@
 ### Languages
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -70,5 +71,6 @@ Linux
 Bash Scripting
 Python
 C
+C#
 Java
 Math
