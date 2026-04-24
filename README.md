@@ -1,9 +1,12 @@
+<p align="center">
+  <img src="./assets" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Denis Moroz</h1>
 <h3 align="center">Machine Learning • DevOps • Linux • Automation</h3>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;DevOps+Learner;Linux+%26+Bash+Enjoyer;Python+%7C+C+%7C+C%23+%7C+Java;HTML+%7C+CSS+%7C+LaTeX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;DevOps+Learner;Linux+%26+Bash+Enjoyer;Python+%7C+C+%7C+C%23+%7C+Java;HTML+%7C+CSS+%7C+LaTeX" alt="Typing SVG" />
 </p>
 
 ---
