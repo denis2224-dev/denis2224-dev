@@ -51,8 +51,10 @@ Alongside my engineering work, I'm diving into **Machine Learning** - fascinated
 **Data & Infrastructure**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 **Machine Learning & Data Science**
 
@@ -93,8 +95,3 @@ Alongside my engineering work, I'm diving into **Machine Learning** - fascinated
 | 💻 Coding | Building Web Apps |
 
 ---
-
-<p align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
-  <br/>— John Johnson
-</p>
